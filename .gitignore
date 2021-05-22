@@ -5,7 +5,7 @@ ENV/
 
 
 # Jupyter Notebook
-*/.ipynb_checkpoints
+**/.ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -36,3 +36,6 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+.DS_Store
+.vscode/
