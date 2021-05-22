@@ -1,0 +1,38 @@
+# virtualenv
+.venv
+venv/
+ENV/
+
+
+# Jupyter Notebook
+*/.ipynb_checkpoints
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.mypy_cache/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+pip-wheel-metadata/
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
