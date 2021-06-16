@@ -6,7 +6,7 @@
 
 * In the `covid_xml` folder you can find a Python notebook parsing XML (and JSON) COVID-19 data as an example on different data formats
 
-To use these notebooks you can either clone this repo and use the Python local installation on your machine, or press the "Binder" button shown above to run it online in [Binder](https://mybinder.org).
+To use these notebooks you can either clone this repo and use the Python local installation on your machine, or press the "Binder" button shown above to run it online in [Binder](https://mybinder.org). You can also open them in [Google Colab](https://colab.research.google.com/): [covid_xml](https://githubtocolab.com/sgsfak/BME-Medical-Informatics-course/blob/main/covid_xml/covid19.ipynb)
 
 ### Authors
 
